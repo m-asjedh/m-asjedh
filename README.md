@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/m_asjedh" target="blank"><img src="https://img.shields.io/twitter/follow/m_asjedh?logo=twitter&style=for-the-badge" alt="m_asjedh" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Web Applicaton**
+- 🔭 I’m currently looking for an software enginerring internship
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently in my last year in the unviersity
 
 - 👨‍💻 All of my projects are available at [https://asjedh.netlify.app/](https://asjedh.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **programming**
 
 - 📫 How to reach me **masjedh.dev@gmail.com**
 
