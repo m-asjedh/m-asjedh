@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/m_asjedh" target="blank"><img src="https://img.shields.io/twitter/follow/m_asjedh?logo=twitter&style=for-the-badge" alt="m_asjedh" /></a> </p>
 
-- 🔭 I’m currently looking for a software enginerring internship
+- 🔭 I’m currently looking for a software engineering internship
 
 - 🌱 I’m currently in my last year in the unviersity
 
