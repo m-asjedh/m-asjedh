@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working as Software Engineer Intern at DiliMatrix 
 
-- 🌱 I’m currently in my last year in the unviersity
-
 - 👨‍💻 All of my projects are available at [https://asjedh.netlify.app/](https://asjedh.netlify.app/)
 
 - 💬 Ask me about **programming**
