@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Asjedh</h1>
-<h3 align="center">A Software Engineering Intern and Undergraduate</h3>
+<h3 align="center">A Software Engineering Intern </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-asjedh&label=Profile%20views&color=0e75b6&style=flat" alt="m-asjedh" /> </p>
