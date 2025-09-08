@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohamed Asjedh</h1>
-<h3 align="center">Associate Software Engineering</h3>
+<h3 align="center">Software Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-asjedh&label=Profile%20views&color=0e75b6&style=flat" alt="m-asjedh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/m_asjedh" target="blank"><img src="https://img.shields.io/twitter/follow/m_asjedh?logo=twitter&style=for-the-badge" alt="m_asjedh" /></a> </p>
 
-- 🔭 I’m currently working as Associate Software Engineering at DiliMatrix 
+- 🔭 I’m currently working as Full Stack Software Engineering at DigiProp.co.uk
 
 - 👨‍💻 All of my projects are available at [https://asjedh.netlify.app/](https://asjedh.netlify.app/)
 
-- 💬 Ask me about **programming**
-
-- 💬 Currently studying about **TypeScript and NextJS**
+- 💬 Ask me about **programming and devOps**
 
 - 📫 How to reach me **masjedh.dev@gmail.com**
 
