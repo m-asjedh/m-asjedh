@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Asjedh</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-asjedh&label=Profile%20views&color=0e75b6&style=flat" alt="m-asjedh" /> </p>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as Full Stack Software Engineering at DigiProp.co.uk
 
-- 👨‍💻 All of my projects are available at [https://asjedh.netlify.app/](https://asjedh.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://asjedhv2.netlify.app/](https://asjedhv2.netlify.app/)
 
 - 💬 Ask me about **programming and devOps**
 
