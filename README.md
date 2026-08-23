@@ -20,8 +20,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="270" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
-
 - 🔭 Currently a **Senior Software Engineer** at **[DigiProp](https://digiprop.co.uk)** (UK) — joined as one of the first three developers and grew with the company as it scaled and expanded across Europe
 - 🛠️ Own **full-stack delivery** across web, mobile, cloud infrastructure, and DevOps — React/Next.js frontends to Node.js/Go backends and AWS
 - 🤖 Recently shipped an **AI-powered report-generation feature** using the **Claude** and **OpenAI** APIs
@@ -33,7 +31,7 @@
 - 📫 Reach me at **[masjedh.dev@gmail.com](mailto:masjedh.dev@gmail.com)**
 - ⚡ Fun fact: I once recovered ~3,000 "deleted" production records mid-incident — and lived to tell the story
 
-<br clear="right"/>
+<br/>
 
 ## 🔗 Connect With Me
 
